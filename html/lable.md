@@ -27,7 +27,7 @@
 ## a
 
 - 链接标签
-- href属性 指示链接的标签(如\<a href="www.baidu.com">百度\</a>)
+- href属性 指示链接的标签(如\<a href="www.baidu.com"\>百度\<\/a\>)
 - target属性
   - _blank在新窗口中打开被链接文档。
   - _self默认。在相同的框架中打开被链接文档。
