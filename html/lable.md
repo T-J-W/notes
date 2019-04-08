@@ -1,17 +1,4 @@
-# html
-
-## HTML 标签
-
-- HTML 指的是超文本标记语言 (Hyper Text Markup Language)
-- HTML 不是一种编程语言，而是一种标记语言 (markup language)
-- 标记语言是一套标记标签 (markup tag)
-- HTML 使用标记标签来描述网页
-
-## HTML 文档 = 网页
-
-- HTML 文档描述网页
-- HTML 文档包含 HTML 标签和纯文本
-- HTML 文档也被称为网页
+# 标签
 
 ## h1~h5
 
@@ -27,7 +14,7 @@
 ## a
 
 - 链接标签
-- href属性 指示链接的标签(如\<a href="www.baidu.com">百度\</a>)
+- href属性 指示链接的标签(如\<a href="www.baidu.com"\>百度\<\/a\>)
 - target属性
   - _blank在新窗口中打开被链接文档。
   - _self默认。在相同的框架中打开被链接文档。
